@@ -14,5 +14,9 @@ public class Main {
         NailyaSun.temp = "36000C";
         NailyaSun.radius = "987654321km";
 
+        Planet1 NailyaAstranout = new Planet1();
+        NailyaAstranout.color = "WonderfullGold";
+        NailyaAstranout.size = 1234567890;
+
     }
 }
