@@ -9,10 +9,10 @@ public class Main {
         andromeda.Sun = 1;
 
         FeatureSun NailyaSun = new FeatureSun();
-        NailyaSun.color = "Gold";
-        NailyaSun.heat = "123456789";
-        NailyaSun.temp = "36C";
-        NailyaSun.radius = "987654321";
+        NailyaSun.color = "ShinnyGold";
+        NailyaSun.heat = "1234567890";
+        NailyaSun.temp = "36000C";
+        NailyaSun.radius = "987654321km";
 
     }
 }
