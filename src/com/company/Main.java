@@ -7,5 +7,12 @@ public class Main {
         andromeda.planet = 2;
         andromeda.moon = 4;
         andromeda.Sun = 1;
+
+        FeatureSun NailyaSun = new FeatureSun();
+        NailyaSun.color = "Gold";
+        NailyaSun.heat = "123456789";
+        NailyaSun.temp = "36C";
+        NailyaSun.radius = "987654321";
+
     }
 }
