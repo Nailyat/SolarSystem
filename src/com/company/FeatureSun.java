@@ -2,7 +2,7 @@ package com.company;
 
 public class FeatureSun {
 
-    String heat;
+   String heat;
     String temp;
     String radius;
     String color;

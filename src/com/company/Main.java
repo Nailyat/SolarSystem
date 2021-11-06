@@ -14,5 +14,10 @@ public class Main {
         NailyaSun.temp = "36000C";
         NailyaSun.radius = "987654321km";
 
+        Planet2 astranout = new Planet2();
+        astranout.color = "Silver";
+        astranout.size = "19282736456";
+        astranout.status = "Shinning";
+
     }
 }
