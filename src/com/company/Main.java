@@ -19,5 +19,10 @@ public class Main {
         astranout.size = "19282736456";
         astranout.status = "Shinning";
 
+        Planet1 NailyaAstranout = new Planet1();
+        NailyaAstranout.color = "WonderfullGold";
+        NailyaAstranout.size = 1234567890;
+
+
     }
 }
